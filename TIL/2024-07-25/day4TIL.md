@@ -41,28 +41,28 @@
    `charAt()` 메서드를 활용해 문자열의 각 문자를 숫자로 변환하고, 이를 통해 최종적으로 정수값을 얻는다. 
      
      
-     class Solution {
-     public int solution(String s) {
+        class Solution {
+        public int solution(String s) {
         
-        int mark = 1; 
-        int indexNum = 0; 
+           int mark = 1; 
+           int indexNum = 0; 
         
-        if (s.charAt(0) == '-') {
-            mark = -1; 
-            indexNum = 1;  
-        } else if (s.charAt(0) == '+')   
-            indexNum = 1;  
-        }
+           if (s.charAt(0) == '-') {
+               mark = -1; 
+               indexNum = 1;  
+           } else if (s.charAt(0) == '+')   
+               indexNum = 1;  
+           }
         
-        int answer = 0;
+           int answer = 0;
         
-        for (int i = indexNum; i < s.length(); i++) {
-            answer = answer * 10 + (s.charAt(i) - '0'); 
-        }
+           for (int i = indexNum; i < s.length(); i++) {
+               answer = answer * 10 + (s.charAt(i) - '0'); 
+           }
         
-        return answer * mark;  
-    }
-}
+           return answer * mark;  
+         }
+      }
 
 ## 각 접근 방식 살펴보기 
 
