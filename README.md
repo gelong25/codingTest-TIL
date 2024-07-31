@@ -22,3 +22,5 @@
 8일차 : [프로그래머스] 올바른 괄호 
 
 9일차 : [Leetcode] 506.Relative Ranks 
+
+10일차 : [LeetCode] 703.Kth Largest Element in a Stream
