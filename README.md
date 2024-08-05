@@ -30,3 +30,7 @@
 12일차 : [프로그래머스] 문자열 내림차순으로 배치하기 
 
 13일차 : [LeetCode] 700. Search in a Binary Search Tree
+
+14일차 : [LeetCode] 101. Symmetric Tree
+
+15일차 : [프로그래머스] 모의고사
