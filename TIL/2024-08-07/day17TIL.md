@@ -1,6 +1,6 @@
 
 # 오늘의 문제
-[LeetCode] Binary Tree Inorder Traversal
+[LeetCode] 94. Binary Tree Inorder Traversal
 
 ## 문제 설명
 이진 트리의 루트가 주어졌을 때 중위 순회 한 결과를 반환하는 문제이다. 
