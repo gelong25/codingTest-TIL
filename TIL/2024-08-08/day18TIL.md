@@ -60,6 +60,7 @@ for(int val : inOrderList) {
 `tempNode.right`는 루트 노드 `1`부터 시작해 오른쪽 자식 노드로 연결된 새로운 트리 값을 반환한다. 
 
 `tempNode` 반환 : tempNode (0) -> 1 -> 2 -> 3
+
 `tempNode.right` 반환 : 1 -> 2 -> 3
 
 
