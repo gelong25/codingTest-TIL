@@ -36,3 +36,11 @@
 15일차 : [프로그래머스] 모의고사
 
 16일차 : [프로그래머스] 최소직사각형 
+
+17일차 : [LeetCode] 94. Binary Tree Inorder Traversal
+
+18일차 : [LeetCode] 897. Increasing Order Search Tree
+
+19일차 : [프로그래머스] 과일 장수
+
+20일차 : [프로그래머스] 체육복 
