@@ -51,3 +51,5 @@
 
 23일차 : [LeetCode] 561. Array Partition
 
+24일차 : [LeetCode] 1791. Find Center of Star Graph
+
