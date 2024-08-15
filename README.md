@@ -53,3 +53,5 @@
 
 24일차 : [LeetCode] 1791. Find Center of Star Graph
 
+25일차 : [LeetCode] 1971. Find if Path Exists in Graph
+
