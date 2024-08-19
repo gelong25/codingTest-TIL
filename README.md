@@ -61,3 +61,5 @@
 
 28일차 : [프로그래머스] 프로세스
 
+29일차 : [LeetCode] 268. Missing Number
+
