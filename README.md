@@ -65,3 +65,5 @@
 
 30일차 : [LeetCode] 441. Arranging Coins
 
+31일차 : [백준] 6188. Clear Cold Water
+
