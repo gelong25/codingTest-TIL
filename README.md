@@ -67,3 +67,5 @@
 
 31일차 : [백준] 6188. Clear Cold Water
 
+32일차 : [백준] 6080. Bad Grass
+
