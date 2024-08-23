@@ -69,3 +69,5 @@
 
 32일차 : [백준] 6080. Bad Grass
 
+33일차 : [LeetCode] 1530. Number of Good Leaf Nodes Pairs
+
