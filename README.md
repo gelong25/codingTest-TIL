@@ -71,3 +71,5 @@
 
 33일차 : [LeetCode] 1530. Number of Good Leaf Nodes Pairs
 
+34일차 : [백준] 11123. 양 한마리... 양 두마리...
+
