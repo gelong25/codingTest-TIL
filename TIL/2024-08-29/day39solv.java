@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution { 
     public int findContentChildren(int[] g, int[] s) {
         // 아이들의 욕심(g)과 쿠키의 크기(s)를 오름차순으로 정렬
         Arrays.sort(g);
