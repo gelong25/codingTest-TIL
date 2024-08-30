@@ -81,3 +81,7 @@
 
 38일차 : [LeetCode] 409. Longest Palindrome
 
+39일차 : [LeetCode] 455. Assign Cookies
+
+40일차 : [LeetCode] 746. Min Cost Climbing Stairs
+
