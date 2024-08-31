@@ -85,3 +85,5 @@
 
 40일차 : [LeetCode] 746. Min Cost Climbing Stairs
 
+41일차 : [LeetCode] 1137. N-th Tribonacci Number
+
