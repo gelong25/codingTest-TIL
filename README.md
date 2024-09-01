@@ -87,3 +87,5 @@
 
 41일차 : [LeetCode] 1137. N-th Tribonacci Number
 
+42일차 : [LeetCode] 121. Best Time to Buy and Sell Stock
+
